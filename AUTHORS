@@ -1,5 +1,6 @@
-# This file has the 2 names of AUTHORS of this project
-# They are also listed in the manual and README files.
+# This file lists all individuals having contributed content to the repository.
+# For how it is generated, see 'generate-authors.sh'.
 
-Norris Selorm Bedzo <bedzon@ieee.org>
-Jonathan Abayie Boahene  <jonathanboahene@gmail.com>
+Abayie <jonathanboahene@gmail.com>
+“Norris” <bedzon@ieee.org>
+“Norris” <“bedzon@ieee.org”>
